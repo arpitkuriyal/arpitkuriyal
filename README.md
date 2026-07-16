@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Kuriyal</h1>
 <h3 align="center">
-  GSoC’25 JSON Schema | Backend Developer | DevOps Enthusiast
+  Backend Developer | Go • TypeScript • Node.js | GSoC’25 @ JSON Schema | 
 </h3>
 
 <p align="center">
@@ -11,6 +11,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/arpit-kuriyal-8b6190265/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ArpitKuriyal12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X.com" />
   </a>
 </p>
 
